@@ -1,2 +1,2 @@
 # weatherapp
-//using javascript
+//using HTML,CSS,JAVASCRIPT 
